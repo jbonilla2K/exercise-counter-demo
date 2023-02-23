@@ -1,0 +1,66 @@
+.App {
+  text-align: center;
+  background-color: #f2f2f2;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  border: 3px solid black;
+  padding: 3%;
+}
+
+.counter{
+  font-size: 3em;
+  border: 3px solid black;
+  border-radius: 15px;
+  background-color:rgb(8, 194, 8);
+  color: white;
+  padding-bottom: 1%
+}
+
+
+button{
+  width: 300px;
+  height:75px;
+  font-size: 1.25em;
+  margin: 2%;
+  border-radius: 10px;
+  color:whitesmoke;
+  background-color:rgb(8, 194, 8);
+}
+
+.elms-group{
+  border: 5px solid black;
+  border-radius: 10px;
+  padding: 1% 3% 3%;
+  background-color: rgb(97, 56, 158);
+}
+
+.logbook{
+  text-align: left;
+  color: black
+}
+
+.logbook-items{
+  background-color:white;
+  border-radius: 10px;
+  padding: 2%;
+}
+
+.title{
+  background-color: white;
+  border: 3px solid black;
+  border-radius: 10px;
+  padding-bottom: 2%
+}
+
+.items{
+  border: 3px solid black;
+  border-radius: 10px;
+  padding: 0% 3% 1%;
+  background-color:white;
+  color: rgb(97, 56, 158)
+}
