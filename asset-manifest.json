@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/exercise-counter-demo/static/css/main.c91f93b1.css",
+    "main.js": "/exercise-counter-demo/static/js/main.02ad3f76.js",
+    "static/js/787.aff71482.chunk.js": "/exercise-counter-demo/static/js/787.aff71482.chunk.js",
+    "index.html": "/exercise-counter-demo/index.html",
+    "main.c91f93b1.css.map": "/exercise-counter-demo/static/css/main.c91f93b1.css.map",
+    "main.02ad3f76.js.map": "/exercise-counter-demo/static/js/main.02ad3f76.js.map",
+    "787.aff71482.chunk.js.map": "/exercise-counter-demo/static/js/787.aff71482.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c91f93b1.css",
+    "static/js/main.02ad3f76.js"
+  ]
+}
